@@ -6,7 +6,7 @@ A curated list of amazingly awesome open source intelligence tools and resources
 [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
 
-## Contents
+## 📖 Table of Contents
 
  - [General Search](#-general-search)
  - [Main National Search Engines](#-main-national-search-engines)
@@ -22,7 +22,6 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Social Media Tools](#social-media-tools)
    - [Twitter](#-twitter)
    - [Facebook](#-facebook)
-   - [Google+](#-google)
    - [Instagram](#-instagram)
    - [Pinterest](#-pinterest)
    - [Reddit](#-reddit)
@@ -87,6 +86,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
  - [DNS](#-dns)
  - [Other Tools](#-other-tools)
+ - [Threat Intelligence](#-threat-intelligence)
  - [OSINT Videos](#-osint-videos)
 
 ## [↑](#contents) Contributing
@@ -95,7 +95,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#contents) Credits
 
-This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). I-intelligence is dedicated to helping you improve your ability to collect, analyze, manage, share and communicate information, whether in support of government policy or in pursuit of competitive advantage.
+This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). 
+
+Thanks to our main contributors
+[jivoi EK_](https://github.com/jivoi)
+[spmedia](https://github.com/spmedia)
 
 ## [↑](#contents) General Search
 
@@ -105,7 +109,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
 * [Bing](http://www.bing.com)
-* [Better Search](https://chrome.google.com/webstore/detail/better-search/ipicopkjbiphdmegamfkeieghhmcjema)
 * [Dothop](http://dothop.com)
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 * [Factbites](http://www.factbites.com)
@@ -118,7 +121,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [ixquick](https://www.ixquick.com)
 * [Lycos](http://www.lycos.com)
 * [Parseek (Iran)](http://www.parseek.com)
-* [Peeplo](http://www.peeplo.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Teoma](http://www.teoma.com)
@@ -131,7 +133,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
 * [Baidu (China)](http://www.baidu.com) - The major search engine used in China
-* [Daum (South Korea)](http://www.daum.net)
 * [Eniro (Sweden)](http://www.eniro.se)
 * [Goo (Japan)](http://www.goo.ne.jp)
 * [Najdsi (Slovenia)](http://www.najdi.si)
@@ -152,18 +153,15 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [AllTheInternet](http://www.alltheinternet.com)
 * [Etools](http://www.etools.ch)
 * [FaganFinder](http://www.faganfinder.com/engines)
-* [Glearch](http://www.glearch.com)
 * [Goofram](http://www.goofram.com)
 * [iZito](http://www.izito.com)
 * [Nextaris](http://www.nextaris.com)
 * [Metabear](http://www.metabear.com)
 * [Myallsearch](http://www.myallsearch.com)
-* [Qrobe](http://qrobe.it)
 * [Qwant](http://www.qwant.com)
 * [Sputtr](http://www.sputtr.com)
 * [Trovando](http://www.trovando.it)
 * [WebOasis](https://weboas.is/)
-* [WiinkZ](http://www.wiinkz.com)
 * [Zapmeta](http://www.zapmeta.com)
 
 ## [↑](#contents) Specialty Search Engines
@@ -173,7 +171,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [2lingual Search](http://www.2lingual.com)
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
-* [FindTheCompany](http://www.findthecompany.com)
 * [Digle](https://www.digle.com)
 * [Google Custom Search](http://www.google.com/cse)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
@@ -187,7 +184,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
 * [Carrot2](http://search.carrot2.org) - Organizes your search results into topics.
-* [Cluuz](http://www.cluuz.com) - Generates easier to understand search results through graphs, images, and tag clouds.
 * [Yippy](http://yippy.com) - Search using multiple sources at once
 
 ## [↑](#contents) Similar Sites Search
@@ -195,7 +191,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 *Find websites that are similar. Good for business competition research.*
 
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
-* [SimilarPages](http://www.similarpages.com) - Find pages similar to each other
 * [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
 * [SitesLike](http://www.siteslike.com) - Find similar websites by category
 
@@ -206,11 +201,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Authorstream](http://www.authorstream.com)
 * [Find-pdf-doc](http://www.findpdfdoc.com)
 * [Free Full PDF](http://www.freefullpdf.com)
-* [Hashdoc](https://www.hashdoc.com)
 * [Offshore Leak Database](https://offshoreleaks.icij.org)
 * [PasteLert](http://andrewmohawk.com/pasteLert/index.php)
 * [PDF Search Engine](http://www.pdfsearchengine.info)
-* [PPTHunter](http://www.ppthunter.com)
 * [RECAP](http://archive.recapthelaw.org)
 * [Scribd](http://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
@@ -221,15 +214,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 *Find information that has been uploaded to Pastebin.*
 
-* [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html) - A custom search page that indexes 57 different paste sites.
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 
 ## [↑](#contents) Code Search
 
 *Search by website source code*
 
-* [CoCaBu](http://code-search.uni.lu/cocabu) - Search engine that augments user query into code-friendly for retrieving precise examples.
-* [FaCoY](http://code-search.uni.lu/facoy) - Search engine that retrieves code examples that are syntactically and semantically similar.
 * [NerdyData](https://search.nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 
@@ -238,7 +228,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)
 * [Facenama (Iran)](http://facenama.com)
-* [Google+](https://plus.google.com)
 * [Instagram](https://www.instagram.com)
 * [Linkedin](https://www.linkedin.com)
 * [Mixi (Japan)](https://mixi.jp)
@@ -261,27 +250,21 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
 * [Buzz sumo](http://buzzsumo.com)
-* [Flumes](http://flumes.com)
-* [Gaddr](https://gaddr.me)
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
-* [HowSociable](http://www.howsociable.com)
 * [Hashtatit](http://www.hashatit.com)
 * [Icerocket](http://www.icerocket.com)
 * [Klear](http://klear.com)
-* [Klout](http://klout.com)
 * [Kred](http://kred.com)
 * [MustBePresent](http://mustbepresent.com)
 * [Netvibes](http://www.netvibes.com)
 * [OpinionCrawl](http://www.opinioncrawl.com)
 * [Rival IQ](https://www.rivaliq.com)
 * [RSS Social Analyzer](https://chrome.google.com/webstore/detail/rss-social-analyzer/ncmajlpbfckecekfamgfkmckbpihjfdn?hl=en)
-* [SmashFuse](http://smashfuse.com)
 * [SocialBakers](http://www.socialbakers.com)
 * [SociaBlade](http://socialblade.com)
 * [Social DownORNot](http://social.downornot.com)
-* [Social Mention](http://socialmention.com)
 * [Social Searcher](http://www.social-searcher.com)
 * [Tagboard](https://tagboard.com)
 * [Trackur](http://www.trackur.com)
@@ -295,7 +278,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
 * [Crate](https://getcrate.co)
-* [Custom Twitter Tools](https://inteltechniques.com/osint/menu.twitter.html)
 * [doesfollow](https://doesfollow.com)
 * [Fake Follower Check](https://fakers.statuspeople.com)
 * [FirstTweet](https://discover.twitter.com/first-tweet#i_intelligence)
@@ -312,7 +294,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
 * [Hashtagify](http://hashtagify.me)
 * [Hashtags.org](http://www.hashtags.org)
-* [InTweets](http://intweets.com)
 * [ManageFlitter](http://manageflitter.com)
 * [Mentionmapp](http://mentionmapp.com)
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
@@ -321,7 +302,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Riffle](http://crowdriff.com/riffle/)
 * [RiteTag](https://ritetag.com)
 * [Sentiment140](http://www.twittersentiment.appspot.com)
-* [Silver Bird](https://chrome.google.com/webstore/detail/silver-bird/encaiiljifbdbjlphpgpiimidegddhic?hl=en)
 * [SnapBird](http://snapbird.org)
 * [Sleeping Time](http://sleepingtime.org)
 * [Social Bearing](http://www.socialbearing.com)
@@ -336,9 +316,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [twbirthday](http://twbirthday.com)
 * [TwChat](http://twchat.com)
 * [tweepsect](http://tweepsect.com)
-* [Tweet4me](http://tweet4.me)
 * [TweetArchivist](http://www.tweetarchivist.com)
-* [Tweet Chat](http://www.tweetchat.com)
 * [TweetDeck](https://www.tweetdeck.com)
 * [Tweeten](http://tweeten.xyz)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
@@ -363,7 +341,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Twitter Counter](http://twittercounter.com)
 * [Twitterfall](http://twitterfall.com)
 * [Twitter Search](http://search.twitter.com)
-* [Twitter Search Tools](https://inteltechniques.com/intel/OSINT/twitter.html)
 * [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 * [Schedule Warble](https://warble.co)
 
@@ -371,53 +348,39 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Commun.it](http://commun.it)
-* [Custom Facebook Tools](https://inteltechniques.com/osint/menu.facebook.html)
 * [ExtractFace](http://le-tools.com/ExtractFace.html#download)
 * [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Search](http://search.fb.com/)
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)
-* [Facebook Search Tools](https://inteltechniques.com/intel/OSINT/facebook.html)
 * [FaceLIVE](https://www.facelive.org)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
 * [Find my Facebook ID](https://findmyfbid.in)
 * [LikeAlyzer](http://likealyzer.com)
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
-* [Socialsearching](http://socialsearching.info/#/fb)
 * [Wallfux](https://www.wallflux.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [Zesty Facebook Search](http://zesty.ca/facebook)
 
-### [↑](#contents) Google+
-
-* [CircleCount](http://www.circlecount.com)
-* [Google Plus Search](http://googleplussearch.chromefans.org)
-* [PlusFeed](http://plusfeed.frosas.net)
-
 ### [↑](#contents) Instagram
 
-* [Custom Instagram Search Tools](https://inteltechniques.com/osint/menu.instagram.html)
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
-* [Ink361](http://ink361.com)
 * [Picodash](https://www.picodash.com)
 * [SnapMap](https://snapmap.knightlab.com/)
 * [Social Rank](https://www.socialrank.com)
 * [Tofo.me](https://tofo.me)
-* [Websta (Instagram)](http://websta.me)
 * [Worldcam](http://worldc.am)
 
 ### [↑](#contents) Pinterest
 
 * [Pingroupie](http://pingroupie.com)
-* [Pin Search](https://chrome.google.com/webstore/detail/pin-search-image-search-o/okiaciimfpgbpdhnfdllhdkicpmdoakm)
 
 ### [↑](#contents) Reddit
 
 *Tools to help discover more about a reddit user or subreddit.*
 
 * [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
-* [Metareddit](http://metareddit.com) - Explore various subreddits.
 * [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
 * [Reddit Archive](http://www.redditarchive.com) - Historical archives of reddit posts.
 * [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
@@ -434,10 +397,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [Дезертир](http://vk.com/app3046467)
 * [Barkov.net](http://vk.barkov.net)
-* [Find Face](http://findface.ru) - Search for people on VK by photo.
 * [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 * [Social Stats](http://socialstats.ru)
-* [Spotlight](http://spotlight.svezet.ru)
 * [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
 * [Target Hunter](https://targethunter.net)
 * [Target Log](http://targetolog.com)
@@ -449,7 +410,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ### [↑](#contents) Tumblr
 
-* [Searchlr](http://searchlr.net) - Search engine for tumblr posts.
 * [Tumblr Search](http://www.tumblr.com/search)
 
 ### [↑](#contents) LinkedIn
@@ -460,7 +420,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [BlogSearchEngine](http://www.blogsearchengine.org)
 * [Icerocket](http://www.icerocket.com)
-* [NetworkedBlogs](http://www.networkedblogs.com)
 * [Notey](http://www.notey.com) - Blog post search engine.
 * [Sphere](https://www.sphere.com)
 * [Twingly](http://www.twingly.com)
@@ -479,11 +438,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Username Check
 
 * [Check User Names](http://www.checkusernames.com)
-* [Custom Username Tools](https://inteltechniques.com/osint/menu.user.html)
-* [Gaddr](https://gaddr.me) - Scan 50+ different websites for usernames.
 * [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.  
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
+* [Name Checkup](https://namecheckup.com)
 * [User Search](http://www.usersearch.org)
 
 ## [↑](#contents) People Investigations
@@ -497,16 +455,13 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Charlie App](https://charlieapp.com)
 * [Classmates](http://www.classmates.com)
 * [CrunchBase](http://www.crunchbase.com)
-* [Custom Person Search Tools](https://inteltechniques.com/osint/menu.name.html)
 * [CVGadget](http://www.cvgadget.com)
 * [Data 24-7](https://www.data24-7.com)
-* [Gaddr](https://gaddr.me)
 * [facesearch](http://facesaerch.com) - Search for images of a person by name.
 * [Family Search](https://familysearch.org)
 * [Family Tree Now](http://www.familytreenow.com/)
 * [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Find an inmate that is in the Federal Bureau of Prisons system.
 * [Fold3 (US Military Records)](http://www.fold3.com) - Browse records of US Military members.
-* [Forebears](http://forebears.io)
 * [Genealogy Bank](http://www.genealogybank.com)
 * [Genealogy Links](http://www.genealogylinks.net)
 * [Hey Press (Search for Journalists)](https://www.hey.press)
@@ -549,19 +504,16 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) E-mail Search / E-mail Check
 
-* [Breach OR Clear](http://breachorclear.jesterscourt.cc)
-* [Custom Email Search Tools](https://inteltechniques.com/osint/menu.email.html)
 * [BriteVerify Email Verification](http://www.briteverify.co.uk)
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
 * [EmailHippo](https://tools.verifyemailaddress.io)
-* [Email Hunter](https://emailhunter.co)
 * [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator)
-* [Emails4corporations](https://sites.google.com/site/emails4corporations/home)
 * [EmailSearch.net](http://www.email-search.org/search-emails)
 * [Email Validator](https://chema.ga/emailvalidator/index.php)
-* [Email Validator Tool](http://e-mailvalidator.com)
+* [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
+* [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
 * [MailTester](http://mailtester.com/testmail.php)
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
@@ -571,10 +523,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
+* [We Leak Info](https://weleakinfo.com/) - We Leak Info is the industry leading data breach search engine. Database containing over 10 billion records and 7,000 data breaches.
 
 ## [↑](#contents) Phone Number Research
 * [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
-* [NumSpy-API](https://numspy.pythonanywhere.com) - find details of any mobile number in india for free and get a JSON formated output, inspired by [NumSpy](https://bhattsameer.github.io/numspy).
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
@@ -583,14 +535,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Expert Search
 
 * [Academia](http://academia.edu)
-* [AllExperts](http://www.allexperts.com)
 * [CanLaw](http://www.canlaw.com)
 * [ExpertiseFinder](http://www.expertisefinder.com)
 * [ExpertGuide](http://www.expertguide.com.au)
 * [ExpertPages](http://expertpages.com)
 * [Experts.com](http://www.experts.com)
 * [HARO](http://www.helpareporter.com)
-* [HerSay](http://www.hersay.co.uk)
 * [GlobalExperts](http://www.theglobalexperts.org)
 * [Idealist](http://www.idealist.org)
 * [Innocentive](http://www.innocentive.com)
@@ -602,9 +552,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Newswise](http://www.newswise.com)
 * [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI)
 * [PRNewswire](https://prnmedia.prnewswire.com)
-* [ProfNet](http://www.prnewswire.com/profnet)
 * [ReseacherID](http://www.researcherid.com)
-* [ScholarUniverse](http://www.scholaruniverse.com)
 * [SheSource](http://www.shesource.org)
 * [Speakezee](https://www.speakezee.org)
 * [Sources](http://www.sources.com)
@@ -617,7 +565,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)
 * [Better Business Bureau](http://www.bbb.org)
 * [Bizeurope](http://www.bizeurope.com)
-* [Biznar](http://biznar.com/biznar/desktop/en/lightblue/search.html)
 * [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)
 * [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 * [Bureau Van Dijk](http://www.bvdinfo.com)
@@ -635,9 +582,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [European Business Register](http://www.ebr.org)
 * [Ezilon](http://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
-* [FindtheCompany](http://www.findthecompany.com)
 * [Glassdoor](https://www.glassdoor.com)
-* [Global Business Register](http://www.globalbusinessregister.com)
 * [globalEdge](http://globaledge.msu.edu)
 * [GuideStar](http://www.guidestar.org)
 * [Hoovers](http://www.hoovers.com)
@@ -662,7 +607,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Serpstat](https://serpstat.com)
 * [SpyFu](http://www.spyfu.com)
 * [Forbes Global 2000](http://www.forbes.com/global2000/)
-* [Tradezone Europages](http://www.tradezone.com/europages.php)
 * [Vault](http://www.vault.com)
 * [Xing](http://www.xing.com)
 
@@ -696,11 +640,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [Answers.com](http://www.answers.com)
 * [Ask](http://www.ask.com)
-* [ChaCha](http://www.chacha.com)
 * [eHow](http://www.ehow.com)
 * [Quora](http://www.quora.com)
 * [StackExchange](http://stackexchange.com)
-* [Wiselike](https://wiselike.com)
 * [Yahoo Answers](http://answers.yahoo.com)
 
 ## [↑](#contents) Domain and IP Research
@@ -711,8 +653,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 * [BuiltWith](http://builtwith.com)
 * [Central Ops](http://centralops.net)
-* [Custom Domain Search Tools](https://inteltechniques.com/osint/menu.domain.html)
-* [Custom IP Address Search Tools](https://inteltechniques.com/osint/menu.ip.html)
 * [Dedicated or Not](http://dedicatedornot.com)
 * [DNSDumpster](https://dnsdumpster.com)
 * [DNS History](http://dnshistory.org)
@@ -784,7 +724,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Keywords Discovery and Research
 
 * [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
-* [Google Keyword Suggest Tool](http://tools.seochat.com/tools/suggest-tool)
 * [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
 * [Keyword Discovery](http://www.keyworddiscovery.com)
 * [Keyword Spy](http://www.keywordspy.com)
@@ -797,7 +736,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) Web History and Website Capture
 
 * [Archive.is](http://archive.is)
-* [BlackWidow](http://softbytelabs.com/en/BlackWidow)
+* [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
 * [CashedPages](http://www.cachedpages.com)
 * [CachedView](http://cachedview.com)
 * [Screenshots.com](http://www.screenshots.com)
@@ -810,7 +749,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Apertium](https://www.apertium.org)
 * [Babelfish](https://www.babelfish.com)
 * [Bablic](https://www.bablic.com)
-* [Babylon](http://translation.babylon.com)
 * [Bing Translator](http://www.bing.com/translator)
 * [Dict.cn](http://dict.cn)
 * [Dictionary.com: Translation](http://translate.reference.com)
@@ -859,12 +797,11 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Image Identification Project](https://www.imageidentify.com)
 * [Image Raider](https://www.imageraider.com)
 * [KarmaDecay](http://karmadecay.com)
-* [Lycos Image Search](http://search.lycos.com/images)
+* [Lycos Image Search](http://search.lycos.com)
 * [MyPicsMap](http://www.mypicsmap.com)
 * [PhotoBucket](http://photobucket.com)
 * [Picsearch](http://www.picsearch.com)
 * [PicTriev](http://www.pictriev.com)
-* [Reverse Image Search](https://inteltechniques.com/osint/menu.reverse.image.html)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 * [TinEye](https://tineye.com) - Reverse image search engine.
 * [Websta](http://websta.me)
@@ -880,7 +817,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Gbimg.org](http://gbimg.org)
 * [Ghiro](http://www.getghiro.org)
 * [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
-* [Izitru](http://www.izitru.com)
 * [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
 * [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 * [Metapicz](http://metapicz.com/)
@@ -914,7 +850,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Blinkx](http://www.blinkx.com)
 * [Clarify](http://clarify.io)
 * [Clip Blast](http://www.clipblast.com)
-* [Custom YouTube Search Tools](https://inteltechniques.com/osint/menu.youtube.html)
 * [DailyMotion](http://www.dailymotion.com)
 * [Deturl](http://deturl.com)
 * [DownloadHealper](http://www.downloadhelper.net)
@@ -926,7 +861,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Metacafe](http://www.metacafe.com)
 * [Metatube](http://www.metatube.com)
 * [Montage](https://montage.storyful.com)
-* [Reverse Image Search Tools](https://inteltechniques.com/osint/menu.reverse.html)
 * [Veoh](http://www.veoh.com)
 * [Vimeo](https://vimeo.com)
 * [Voxalead](http://voxalead.labs.exalead.com)
@@ -1037,9 +971,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Read](https://medium.com/@readapp/introducing-read-for-ios-de4d2799254a#.z3lrigjr7)
 * [Reader IQ](http://www.ereaderiq.com)
 * [Readgeek](http://www.readgeek.com)
-* [Readism](https://chrome.google.com/webstore/detail/readism-article-reading-t/bmiolhceebkeljaikojgcoeefblcihje)
 * [Riffle](https://www.rifflebooks.com)
-* [SendtoKindle](https://addons.mozilla.org/en-US/firefox/addon/sendtokindle/?src=search)
 * [Shelfie](http://www.shelfie.com)
 * [TasteKid: Books](http://www.tastekid.com/books)
 * [TheBooksProject](http://thebooksproject.co)
@@ -1058,7 +990,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Colorbrewer](http://colorbrewer2.org)
 * [CrowdMap](https://crowdmap.com)
 * [CTLRQ Address Lookup](https://ctrlq.org/maps/address)
-* [Custom Satellite View Tools](https://inteltechniques.com/osint/menu.maps.html)
 * [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
 * [DualMaps](http://data.mashedworld.com/dualmaps/map.htm)
 * [GeoGig](http://geogig.org)
@@ -1122,7 +1053,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Cyber Alert](http://www.cyberalert.com)
 * [DailyEarth](http://dailyearth.com)
 * [DPA International](http://www.dpa-international.com)
-* [The Economist Explorer](https://yvoschaap.com/economist)
 * [Euronews](http://www.euronews.com)
 * [Europe Media Monitor (EMM)](http)
 * [NewsExplorer](http://emm.newsexplorer.eu)
@@ -1176,7 +1106,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [About Urban Legends](http://urbanlegends.about.com)
 * [Captin Fact](https://captainfact.io/)
-* [Churnalism](http://sunlightfoundation.com/tools/churnalism-us)
 * [Check](https://meedan.com/check)
 * [Citizen Desk](https://www.sourcefabric.org/en/citizendesk)
 * [Emergent](http://www.emergent.info)
@@ -1200,7 +1129,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
 * [Center for International Earth Science Information Network](http://www.ciesin.org)
 * [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
-* [Colombia University Library: General Statistical Sources, International Statistics](http://library.columbia.edu/subject-guides/social-sciences/stats/int.html)
 * [Data.gov.uk](https://data.gov.uk)
 * [DBPedia](http://wiki.dbpedia.org)
 * [European Commission Eurobarometer](http://ec.europa.eu/COMMFrontOffice/PublicOpinion)
@@ -1216,14 +1144,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Government of Canada Open Data](http://open.canada.ca/en)
 * [HIS Piers](https://www.ihs.com/products/piers.html)
 * [Human Development Reports](http://hdr.undp.org/en/global-reports)
-* [IDEA Databases](http://www.idea.int/resources/databases.cfm)
 * [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
 * [International Trade Center](http://www.intracen.org/ByCountry.aspx)
 * [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
 * [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
 * [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28)
 * [Index Mundi](http://www.indexmundi.com)
-* [International Data Base](http://www.census.gov/population/international/data/idb/informationGateway.php)
 * [International Energy Agency Energy Atlas](http://energyatlas.iea.org)
 * [International Energy Agency Statistics](http://www.iea.org/statistics)
 * [International Finance Corporation Data and Indicators](https://www.wbginvestmentclimate.org/research-and-diagnostics)
@@ -1236,10 +1162,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [OECD Aid Database](http://www.oecd.org/dac/stats/data.htm)
 * [OECD Data](https://data.oecd.org)
 * [OECD Factbook](http://www.oecd-ilibrary.org/economics/oecd-factbook_18147364)
-* [OECD Statistics Directorate](http://www.oecd.org/std)
 * [OFFSTATS](http://www.offstats.auckland.ac.nz)
 * [Open Data Network](http://www.opendatanetwork.com)
-* [Open Government Data](http://opengovernmentdata.org/data)
 * [Paul Hensel’s General Informational Data Page](http://www.paulhensel.org/dataintl.html)
 * [Penn World Table](http://www.rug.nl/research/ggdc/data/pwt/pwt-8.1)
 * [Pew Research Center](http://www.pewinternet.org/datasets)
@@ -1278,14 +1202,12 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) Web Monitoring
 
-* [AlertBox](https://addons.mozilla.org/en-US/firefox/addon/alertbox)
 * [Alltop](http://alltop.com)
 * [Awasu](http://www.awasu.com)
 * [Bridge.Leslibres](https://bridge.leslibres.org)
 * [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 * [ChangeDetect](http://www.changedetect.com)
 * [ChangeDetection](http://www.changedetection.com)
-* [CurioStudio](http://www.curiostudio.com)
 * [Deltafeed](http://bitreading.com/deltafeed)
 * [DiggReader](http://digg.com/login?next=%2Freader)
 * [Feed43](http://feed43.com)
@@ -1315,7 +1237,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [RSS Search Hub](http://www.rsssearchhub.com)
 * [RSSOwl](http://www.rssowl.org)
 * [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/bmjffnfcokiodbeiamclanljnaheeoke?hl=en)
-* [Sage](https://addons.mozilla.org/en-US/firefox/addon/sage/?src=search)
 * [Selfoss](http://selfoss.aditu.de)
 * [Silobreaker](http://www.silobreaker.com)
 * [Talkwalker](http://www.talkwalker.com)
@@ -1331,7 +1252,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Bibsonomy](http://www.bibsonomy.org)
 * [BonzoBox](http://bonzobox.com)
 * [Booky](http://booky.io)
-* [Buttons](http://www.makebuttons.co.uk/en)
 * [Candybank](https://www.candybank.com)
 * [ChannelKit](http://channelkit.com)
 * [Clipix](https://www.clipix.com)
@@ -1361,7 +1281,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Raindrop](https://raindrop.io)
 * [Refind](https://refind.com)
 * [Scoop.it](http://www.scoop.it)
-* [Scrapbook](https://addons.mozilla.org/en-US/firefox/addon/scrapbook)
 * [Scrible](http://www.scrible.com)
 * [Sitehoover](http://www.sitehoover.com)
 * [Spaaze](http://www.spaaze.com)
@@ -1370,7 +1289,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Thinkery](http://thinkery.me)
 * [Trackplanet](https://trackpanel.net)
 * [Wepware](http://www.wepware.com)
-* [Wonderpage](http://www.wonderpage.com)
 * [xmarks](http://www.xmarks.com)
 * [Zotero](http://www.zotero.org)
 
@@ -1428,6 +1346,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ## [↑](#contents) VPN Services
 
 * [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
+* [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/)
 
 ## [↑](#contents) Note-taking
 
@@ -1599,7 +1518,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Cacoo](https://cacoo.com)
 * [Canva](https://www.canva.com)
 * [chartblocks](http://www.chartblocks.com)
-* [Charted](http://www.charted.co)
 * [Chartico](http://chartico.com)
 * [Chart.js](http://www.chartjs.org)
 * [Circos](http://circos.ca)
@@ -1630,7 +1548,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Leaflet](http://leafletjs.com)
 * [Listify](http://listify.okfnlabs.org)
 * [Linkuroius](http://linkurio.us)
-* [LocalFocus](https://www.localfocus.nl/nl)
+* [LocalFocus](https://www.localfocus.nl)
 * [Lucidchart](https://www.lucidchart.com)
 * [Mapline](https://mapline.com)
 * [Nodebox](https://www.nodebox.net)
@@ -1669,7 +1587,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Visage](https://visage.co)
 * [Vis.js](http://visjs.org)
 * [Visme](http://www.visme.co)
-* [Visualize Free](http://visualizefree.com/index.jsp)
+* [Visualize Free](http://visualizefree.com)
 * [Visualize.me](http://vizualize.me)
 * [visually](http://create.visual.ly)
 * [Vortex](http://www.dotmatics.com/products/vortex)
@@ -1693,7 +1611,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Lunapic](http://www124.lunapic.com/editor)
 * [OnlineImageSplitter](http://www.htmlkit.com/services/is)
 * [Paint.NET](http://www.getpaint.net/index.html)
-* [PhotoPlus](http://www.serif.com/free-photo-editing-software)
 * [Photoscape](http://www.photoscape.org/ps/main/index.php)
 * [Photoshop](http://www.photoshop.com)
 * [picfull](http://www.picfull.com)
@@ -1715,8 +1632,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Focus booster](https://www.focusboosterapp.com)
 * [Freecamp](https://freedcamp.com)
 * [Good night Chrome](http://www.goodnightchrome.com)
-* [Leechblock](https://addons.mozilla.org/en-US/firefox/addon/leechblock)
-* [MorningRoutine](http://www.ubicolor.com/morningroutine.html)
+* [Leechblock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng)
 * [MyLifeOrganized](http://www.mylifeorganized.net)
 * [Pintask](https://pintask.me)
 * [PomodoroTechnique](http://pomodorotechnique.com)
@@ -1745,7 +1661,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [AutoHotkey](https://www.autohotkey.com)
 * [Batched Inbox](https://www.batchedinbox.com)
 * [Baydin](https://www.baydin.com)
-* [BetterGmail](https://addons.mozilla.org/en-US/firefox/addon/better-gmail-2/)
 * [Block Sender](https://chrome.google.com/webstore/detail/block-sender/bklnjbfcmglhiaoppcckdodanccbelcg)
 * [Boomerang Mail](http://www.boomeranggmail.com)
 * [ClearContext](http://www.clearcontext.com)
@@ -1754,7 +1669,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Complete](https://complete.li)
 * [FindBigMail](https://www.findbigmail.com)
 * [Followupthen](https://www.followupthen.com)
-* [Gpum](https://addons.mozilla.org/en-US/firefox/addon/gpum)
 * [Hiver](http://hiverhq.com)
 * [Integrated gmail](https://addons.mozilla.org/en-US/firefox/addon/integrated-gmail)
 * [Mailstore](http://www.mailstore.com)
@@ -1765,7 +1679,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Sanebox](https://www.sanebox.com)
 * [Send for Gmail](https://chrome.google.com/webstore/detail/send-from-gmail-by-google/pgphcomnlaojlmmcjmiddhdapjpbgeoc)
 * [Sortd](http://www.sortd.com)
-* [TrueNew](https://chrome.google.com/webstore/detail/truenewtm-count-for-gmail/lhgbgmbdabgjdephnmkpmcdkmnpiahlb)
 * [Ugly Email](https://uglyemail.com)
 * [Unroll.me](https://unroll.me) - Easily unsubscribe in one click from email subscriptions.
 * [Wisestamp](https://chrome.google.com/webstore/detail/wisestamp-email-signature/pbcgnkmbeodkmiijjfnliicelkjfcldg)
@@ -2066,7 +1979,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [MyBB](http://www.mybb.com)
 * [omNovia](http://www.omnovia.com)
 * [ooVoo](http://www.oovoo.com)
-* [Open Whisper Systems](https://whispersystems.org)
 * [Personify](http://www.personify.com)
 * [PGi iMeet](http://www.pgi.com/imeet)
 * [Phorum](http://www.phorum.org)
@@ -2078,6 +1990,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [screenleap](http://www.screenleap.com)
 * [Sharetronix](http://sharetronix.com)
 * [sifonr](http://www.sifonr.com/)
+* [Signal](https://signal.org/)
 * [Simple Signal](http://www.simplesignal.com)
 * [Skarpline](https://skarpline.com)
 * [Skype](http://www.skype.com)
@@ -2099,7 +2012,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Viadesk](http://www.viadesk.com)
 * [VideoLink2](https://videolink2.me)
 * [Vivicom](http://www.vivicom.de)
-* [VMukti](http://www.vmukti.com/web-conferencing-software.html)
 * [Webex](http://www.webex.com)
 * [WhatsApp](https://www.whatsapp.com)
 * [worklife](https://www.worklife.com)
@@ -2178,13 +2090,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [AdblockPlus](https://adblockplus.org)
 * [Adium](https://adium.im)
 * [Axcrypt](http://www.axantum.com/axcrypt)
-* [Blender](https://addons.mozilla.org/en-US/firefox/addon/blender-1)
 * [boxcryptor](https://www.boxcryptor.com)
 * [CCleaner](https://www.piriform.com/ccleaner)
 * [Chatsecure](https://chatsecure.org)
-* [ClearConsole](https://addons.mozilla.org/en-US/firefox/addon/clear-console)
-* [Click&Clean](https://addons.mozilla.org/en-US/firefox/addon/clickclean)
-* [Crypto.cat](https://crypto.cat)
 * [Disconnect](https://disconnect.me)
 * [Do Not Track](http://donottrack.us)
 * [Duck Duck Go Search Engine](https://duckduckgo.com)
@@ -2194,7 +2102,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Eraser](http://eraser.heidi.ie)
 * [FileVault](https://support.apple.com/en-us/HT204837)
 * [Ghostery](https://www.ghostery.com)
-* [Gmelius for Inbox by Gmail](https://chrome.google.com/webstore/detail/gmelius-for-inbox-by-gmai/dlbjhjnahgmigifoggidegpakbcjomgg)
 * [GNU PG](https://www.gnupg.org/download/index.html)
 * [GPG Tools](https://gpgtools.org)
 * [Guardian Project](https://guardianproject.info)
@@ -2202,9 +2109,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Hotspot Shield](https://www.hotspotshield.com)
 * [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
 * [I2P](https://geti2p.net)
-* [IBackup](https://www.ibackup.com/online-backup-downloads)
-* [IPLeak](https://www.ipleak.net)
-* [Ixquick Search Engine](https://www.ixquick.com)
 * [justdeleteme](http://justdelete.me)
 * [KeePass Password Safe](http://keepass.info)
 * [Lastpass](https://lastpass.com)
@@ -2212,21 +2116,17 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Mailbox](https://mailbox.org)
 * [Mailvelope](https://www.mailvelope.com)
 * [Master Password](http://masterpasswordapp.com)
-* [Motherpipe](https://motherpipe.com)
 * [Nixory](http://nixory.sourceforge.net)
 * [NoScript](https://noscript.net)
 * [Open DNS](https://www.opendns.com/home-internet-security)
 * [Open PGP](https://www.enigmail.net/index.php/en)
-* [Open Whisper Systems](https://whispersystems.org)
 * [Oscobo Search Engine](https://oscobo.co.uk)
 * [OSSEC](https://ossec.github.io)
 * [Panopticlick](https://panopticlick.eff.org)
 * [Peerblock](http://forums.peerblock.com)
 * [Pidgin](https://www.pidgin.im)
 * [Pixel Block](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem)
-* [Policeman](https://addons.mozilla.org/en-US/firefox/addon/policeman)
 * [Privacy Badger](https://www.eff.org/privacybadger)
-* [Privacy Pal](http://www.privacypal.co)
 * [Privazer](http://privazer.com)
 * [Proton Mail](https://protonmail.com)
 * [Qubes](https://www.qubes-os.org)
@@ -2245,7 +2145,6 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Wickr](https://wickr.com)
 * [WOT](https://www.mywot.com)
 * [VeraCrypt](https://veracrypt.codeplex.com)
-* [Viivo](https://viivo.com) - End Of Life annoucement. EOL = July 1 2018.
 * [ZMail](http://zmail.sourceforge.net)
 
 ## [↑](#contents) DNS
@@ -2256,9 +2155,10 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 * [Belati](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+* [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  
+  * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
-* [Maltego](http://www.paterva.com/web6/products/maltego.php) - Interactive data mining tool that renders directed graphs for link analysis.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
@@ -2271,6 +2171,11 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+
+## [↑](#contents) Threat Intelligence
+
+* [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
+* [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 
 ## [↑](#contents) OSINT Videos
 
