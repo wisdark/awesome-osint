@@ -109,9 +109,7 @@ Thanks to our main contributors
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
 * [Bing](http://www.bing.com)
-* [Dothop](http://dothop.com)
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Factbites](http://www.factbites.com)
 * [Gigablast](http://gigablast.com)
 * [Goodsearch](http://www.goodsearch.com)
 * [Google Search](http://www.google.com) - Most popular search engine.
@@ -254,7 +252,6 @@ Thanks to our main contributors
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
 * [Hashtatit](http://www.hashatit.com)
-* [Icerocket](http://www.icerocket.com)
 * [Klear](http://klear.com)
 * [Kred](http://kred.com)
 * [MustBePresent](http://mustbepresent.com)
@@ -348,7 +345,7 @@ Thanks to our main contributors
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Commun.it](http://commun.it)
-* [ExtractFace](http://le-tools.com/ExtractFace.html#download)
+* [DumpItBlue](http://le-tools.com/DumpItBlue.html)
 * [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Search](http://search.fb.com/)
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)
@@ -358,7 +355,6 @@ Thanks to our main contributors
 * [LikeAlyzer](http://likealyzer.com)
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
-* [Wallfux](https://www.wallflux.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [Zesty Facebook Search](http://zesty.ca/facebook)
 
@@ -467,7 +463,6 @@ Thanks to our main contributors
 * [Hey Press (Search for Journalists)](https://www.hey.press)
 * [Homemetry](https://homemetry.com)
 * [Infobel](http://www.infobel.com/en/world)
-* [Infospace White Pages](http://infospace.com/home/white-pages)
 * [Interment](http://www.interment.net/data/search.htm)
 * [International White and Yellow Pages](http://www.wayp.com)
 * [Itools](http://itools.com/search/people-search)
@@ -489,6 +484,7 @@ Thanks to our main contributors
 * [Rootsweb](http://home.rootsweb.ancestry.com)
 * [SearchBug](http://www.searchbug.com)
 * [Skip Ease](http://www.skipease.com)
+* [Smart Background Checks](https://www.smartbackgroundchecks.com/people/)
 * [snitch.name](http://www.snitch.name)
 * [SnoopStation](http://snoopstation.com)
 * [Spokeo](http://www.spokeo.com)
@@ -505,6 +501,7 @@ Thanks to our main contributors
 ## [↑](#contents) E-mail Search / E-mail Check
 
 * [BriteVerify Email Verification](http://www.briteverify.co.uk)
+* [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
 * [EmailHippo](https://tools.verifyemailaddress.io)
@@ -523,7 +520,6 @@ Thanks to our main contributors
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
-* [We Leak Info](https://weleakinfo.com/) - We Leak Info is the industry leading data breach search engine. Database containing over 10 billion records and 7,000 data breaches.
 
 ## [↑](#contents) Phone Number Research
 * [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
@@ -694,6 +690,7 @@ Thanks to our main contributors
 * [RedirectDetective](http://redirectdetective.com)
 * [Remote DNS Lookup](https://remote.12dt.com)
 * [Robtex](https://www.robtex.com)
+* [Spyse](https://spyse.com/) - Scans entire internet using OSINT and collects all valuable info in its own database: Ipv4 hosts, domains/Meta/Whois, AS, TLS/SSL, Ports/Banners/Protocols, technologies, OS and much other info.
 * [SameID](http://sameid.net)
 * [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * [SEMrush](https://www.semrush.com)
@@ -876,7 +873,6 @@ Thanks to our main contributors
 * [Listelive](http://www.listenlive.eu)
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
 * [Podcast Chart](http://www.podcastchart.com)
-* [Podcast Directory](http://www.podcastdirectory.com)
 * [Podkicker](https://play.google.com/store/apps/details?id=ait.podka&hl=en)
 
 ## [↑](#contents) Academic Resources and Grey Literature
@@ -996,7 +992,6 @@ Thanks to our main contributors
 * [GeoNames](http://www.geonames.org)
 * [Esri](http://www.esri.com)
 * [Flash Earth](http://www.flashearth.com)
-* [Follow Your World](https://followyourworld.appspot.com)
 * [Google Earth](http://www.google.com/earth)
 * [Google Maps](https://www.google.com/maps)
 * [Google Maps Streetview Player](http://brianfolts.com/driver)
@@ -1054,7 +1049,6 @@ Thanks to our main contributors
 * [DailyEarth](http://dailyearth.com)
 * [DPA International](http://www.dpa-international.com)
 * [Euronews](http://www.euronews.com)
-* [Europe Media Monitor (EMM)](http)
 * [NewsExplorer](http://emm.newsexplorer.eu)
 * [Factiva](http://www.dowjones.com/factiva)
 * [France24](http://www.france24.com)
@@ -2149,6 +2143,7 @@ Thanks to our main contributors
 
 ## [↑](#contents) DNS
 * [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
+* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting. 
 
 ## [↑](#contents) Other Tools
 
@@ -2159,15 +2154,17 @@ Thanks to our main contributors
   * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 * [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
+* [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
+* [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
+urls and other data effortlessly
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pown Recon](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 * [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
-* [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Full-featured Web Reconnaissance framework written in python.
 * [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
@@ -2176,6 +2173,7 @@ Thanks to our main contributors
 
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
+* [Digital Stakeout](https://www.digitalstakeout.com/platform) - DigitalStakeout Scout™ is the leading security intelligence tool to collect data from the surface web, social media, dark web and technical sources to illuminate and investigate external threats.
 
 ## [↑](#contents) OSINT Videos
 
