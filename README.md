@@ -118,7 +118,6 @@ Thanks to our main contributors
 * [iSEEK Education](http://education.iseek.com/iseek/home.page)
 * [ixquick](https://www.ixquick.com)
 * [Lycos](http://www.lycos.com)
-* [Parseek (Iran)](http://www.parseek.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
 * [Teoma](http://www.teoma.com)
@@ -349,10 +348,8 @@ Thanks to our main contributors
 * [Fanpage Karma](http://www.fanpagekarma.com)
 * [Facebook Search](http://search.fb.com/)
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)
-* [FaceLIVE](https://www.facelive.org)
 * [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats)
 * [Find my Facebook ID](https://findmyfbid.in)
-* [LikeAlyzer](http://likealyzer.com)
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
@@ -365,7 +362,7 @@ Thanks to our main contributors
 * [Picodash](https://www.picodash.com)
 * [SnapMap](https://snapmap.knightlab.com/)
 * [Social Rank](https://www.socialrank.com)
-* [Tofo.me](https://tofo.me)
+* [Toutatis](https://github.com/megadose/toutatis)
 * [Worldcam](http://worldc.am)
 
 ### [↑](#contents) Pinterest
@@ -1379,6 +1376,7 @@ Thanks to our main contributors
 
 * [Arguman](http://en.arguman.org)
 * [Bibme](http://www.bibme.org)
+* [Citationsy](https://citationsy.com)
 * [Cite This For Me](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle?hl=en)
 * [Classeur.io](http://classeur.io)
 * [FreeOffice](http://www.freeoffice.com)
@@ -2081,7 +2079,6 @@ Thanks to our main contributors
 ## [↑](#contents) Privacy and Encryption Tools
 
 * [Abine](https://www.abine.com)
-* [AdblockPlus](https://adblockplus.org)
 * [Adium](https://adium.im)
 * [Axcrypt](http://www.axantum.com/axcrypt)
 * [boxcryptor](https://www.boxcryptor.com)
@@ -2134,7 +2131,7 @@ Thanks to our main contributors
 * [Tails](https://tails.boum.org)
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
 * [Tor Project](https://www.torproject.org)
-* [uBlock](https://www.ublock.org)
+* [uBlock Origin](https://github.com/gorhill/uBlock)
 * [Unseen.is](https://unseen.is)
 * [Wickr](https://wickr.com)
 * [WOT](https://www.mywot.com)
