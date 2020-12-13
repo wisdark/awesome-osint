@@ -95,7 +95,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#contents) Credits
 
-This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/). 
+This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
 
 Thanks to our main contributors
 [jivoi EK_](https://github.com/jivoi)
@@ -120,8 +120,9 @@ Thanks to our main contributors
 * [Lycos](http://www.lycos.com)
 * [Search.com](http://www.search.com)
 * [SurfCanyon](http://www.surfcanyon.com)
-* [Teoma](http://www.teoma.com)
-* [Wolfram Alpha](http://www.wolframalpha.com)
+* [Teoma](http://www.teoma.com) - Teoma (from Scottish Gaelic teòma "expert") was an Internet search engine founded in April 2000 by Professor Apostolos Gerasoulis and his colleagues at Rutgers University in New Jersey.
+* [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
+algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](http://www.yahoo.com) -
 
 ## [↑](#contents) Main National Search Engines
@@ -139,6 +140,7 @@ Thanks to our main contributors
 * [Parseek (Iran)](http://www.parseek.com)
 * [SAPO (Portugal)](http://www.sapo.pt)
 * [Search.ch (Switzerland)](http://www.search.ch)
+* [Seznam(Czech Republic)](https://seznam.cz)
 * [Walla (Israel)](http://www.walla.co.il)
 * [Yandex (Russia)](http://www.yandex.com)
 
@@ -209,14 +211,45 @@ Thanks to our main contributors
 
 ## [↑](#contents) Pastebins
 
-*Find information that has been uploaded to Pastebin.*
+*Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
+* [zerobin](https://batman.gyptis.org/zerobin)
+* [cl1p](https://Cl1p.net)
+* [codepad](https://Codepad.org)
+* [controlc](https://Controlc.com)
+* [doxbin](https://Doxbin.org)
+* [dpaste](https://Dpaste.com)
+* [dpaste2](https://Dpaste.org)
+* [dumpz](https://Dumpz.org)
+* [Friendpast](https://Friendpast.com)
+* [ghostbin](https://ghostbin.co/)
+* [hastebin](https://Hastebin.com)
+* [heypasteit](https://Heypasteit.com)
+* [hpaste](https://Hpaste.org)
+* [ideone](https://Ideone.com)
+* [ivpaste](https://Ivpaste.com)
+* [jsbin](https://Jsbin.com)
+* [justpaste](https://Justpaste.it)
+* [mysticpaste](https://Mysticpaste.com)
+* [nopaste](https://Nopaste.info)
+* [0bin](https://0bin.net)
+* [Obin](https://Obin.net)
+* [paste.debian](https://Paste.debian.net)
+* [paste.ee](https://Paste.ee)
+* [paste.fedoraproject](https://Paste.fedoraproject.org)
+* [paste.frubar](https://Paste.frubar.net)
+* [paste.kde](https://Paste.kde.org)
+* [paste.lisp](https://Paste.lisp.org)
+* [paste.pound-python](https://Paste.pound-python.org)
+* [paste.openuse](https://Paste.openuse.org)
+
 
 ## [↑](#contents) Code Search
 
 *Search by website source code*
 
+* [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [NerdyData](https://search.nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 
@@ -242,11 +275,11 @@ Thanks to our main contributors
 
 ## [↑](#contents) Real-Time Search, Social Media Search, and General Social Media Tools
 
-* [Audiense](https://www.audiense.com)
+* [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 * [Bottlenose](http://bottlenose.com)
 * [Brandwatch](https://www.brandwatch.com)
 * [Buffer](https://buffer.com)
-* [Buzz sumo](http://buzzsumo.com)
+* [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 * [Geocreepy](http://www.geocreepy.com)
 * [Geofeedia](https://geofeedia.com)
 * [Hootsuite](http://hootsuite.com)
@@ -270,7 +303,7 @@ Thanks to our main contributors
 
 ### [↑](#contents) Twitter
 
-* [Backtweets](http://backtweets.com)
+* [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
 * [Crate](https://getcrate.co)
@@ -292,6 +325,7 @@ Thanks to our main contributors
 * [Hashtags.org](http://www.hashtags.org)
 * [ManageFlitter](http://manageflitter.com)
 * [Mentionmapp](http://mentionmapp.com)
+* [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 * [Nations24](https://nations24.com)
 * [OneMillionTweetMap](http://onemilliontweetmap.com)
 * [Queryfeed](https://queryfeed.net)
@@ -319,7 +353,6 @@ Thanks to our main contributors
 * [Tweeten](http://tweeten.xyz)
 * [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 * [TweetMap](http://worldmap.harvard.edu/tweetmap)
-* [Tweetpaths](http://www.tweetpaths.com)
 * [TweetPsych](http://tweetpsych.com)
 * [Tweetreach](http://tweetreach.com)
 * [TweetStats](http://www.tweetstats.com)
@@ -437,65 +470,34 @@ Thanks to our main contributors
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
 * [Name Checkup](https://namecheckup.com)
+* [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [User Search](http://www.usersearch.org)
 
 ## [↑](#contents) People Investigations
 
-* [411 (US)](http://www.411.com)
-* [192 (UK)](http://www.192.com)
-* [Alumni.net](http://www.alumni.net)
-* [Ancestry](http://www.ancestry.com)
-* [Canada411](http://www.canada411.ca)
-* [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
-* [Charlie App](https://charlieapp.com)
-* [Classmates](http://www.classmates.com)
-* [CrunchBase](http://www.crunchbase.com)
-* [CVGadget](http://www.cvgadget.com)
-* [Data 24-7](https://www.data24-7.com)
-* [facesearch](http://facesaerch.com) - Search for images of a person by name.
-* [Family Search](https://familysearch.org)
-* [Family Tree Now](http://www.familytreenow.com/)
-* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Find an inmate that is in the Federal Bureau of Prisons system.
-* [Fold3 (US Military Records)](http://www.fold3.com) - Browse records of US Military members.
-* [Genealogy Bank](http://www.genealogybank.com)
-* [Genealogy Links](http://www.genealogylinks.net)
-* [Hey Press (Search for Journalists)](https://www.hey.press)
-* [Homemetry](https://homemetry.com)
-* [Infobel](http://www.infobel.com/en/world)
-* [Interment](http://www.interment.net/data/search.htm)
-* [International White and Yellow Pages](http://www.wayp.com)
-* [Itools](http://itools.com/search/people-search)
-* [Kompass](http://www.kompass.com)
-* [LookUpUK](http://www.lookupuk.com)
-* [Lullar](http://com.lullar.com)
-* [MarketVisual](http://www.marketvisual.com)
-* [MelissaDATA](http://www.melissadata.com/lookups/peoplefinder.asp)
-* [My Life People Search](https://www.mylife.com/people-search)
-* [The National Archives (UK)](http://www.nationalarchives.gov.uk)
-* [PeekYou](http://www.peekyou.com)
-* [People Search (Australia)](http://www.peoplesearch.com.au)
-* [PeopleSearch.net](http://www.peoplesearch.net)
-* [Pipl](https://pipl.com)
-* [Rapportive](http://rapportive.com)
-* [RecordsPedia](http://recordspedia.com)
-* [Recruitem](http://recruitin.net)
-* [Reunion](http://reunion.com)
-* [Rootsweb](http://home.rootsweb.ancestry.com)
-* [SearchBug](http://www.searchbug.com)
-* [Skip Ease](http://www.skipease.com)
-* [Smart Background Checks](https://www.smartbackgroundchecks.com/people/)
-* [snitch.name](http://www.snitch.name)
-* [SnoopStation](http://snoopstation.com)
-* [Spokeo](http://www.spokeo.com)
-* [Switchboard](http://www.switchboard.com)
-* [That’sThem](https://thatsthem.com)
-* [USSearch](http://www.ussearch.com)
-* [WebMiii](http://www.webmii.com)
-* [White Pages (US)](http://www.whitepages.com)
-* [Wink](http://itools.com/tool/wink-people-search)
-* [Yasni](http://www.yasni.com)
-* [Zabasearch](http://www.zabasearch.com)
-* [Zoominfo](http://www.zoominfo.com)
+* [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
+* [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
+* [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
+* [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
+* [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
+* [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
+* [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+* [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
+* [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
+* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
+* [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
+* [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
+* [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
+* [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+* [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
+* [Kompass](http://www.kompass.com) - Business directory and search.
+* [My Life People Search](https://www.mylife.com/people-search) - People search. Limited free info, premium data upsell.
+* [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
+* [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
+* [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
+* [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
+* [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+* [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 
 ## [↑](#contents) E-mail Search / E-mail Check
 
@@ -513,6 +515,7 @@ Thanks to our main contributors
 * [MailTester](http://mailtester.com/testmail.php)
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
+* [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
 * [ReverseGenie](http://www.reversegenie.com/email.php)
 * [TCIPUTILS.com Email Test](http://www.tcpiputils.com/email-test)
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
@@ -577,6 +580,7 @@ Thanks to our main contributors
 * [European Business Register](http://www.ebr.org)
 * [Ezilon](http://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
+* [Forbes Global 2000](http://www.forbes.com/global2000/)
 * [Glassdoor](https://www.glassdoor.com)
 * [globalEdge](http://globaledge.msu.edu)
 * [GuideStar](http://www.guidestar.org)
@@ -584,6 +588,7 @@ Thanks to our main contributors
 * [Inc. 5000](http://www.inc.com/inc5000)
 * [InstantLogoSearch](http://instantlogosearch.com)
 * [iSpionage](https://www.ispionage.com)
+* [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 * [Linkedin](https://www.linkedin.com)
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
@@ -601,7 +606,7 @@ Thanks to our main contributors
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
 * [SpyFu](http://www.spyfu.com)
-* [Forbes Global 2000](http://www.forbes.com/global2000/)
+* [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](http://www.vault.com)
 * [Xing](http://www.xing.com)
 
@@ -939,7 +944,6 @@ Thanks to our main contributors
 * [Gnooks](http://www.gnooks.com)
 * [Google Books](https://books.google.com)
 * [Goodreads](http://www.goodreads.com)
-* [Groundera](http://groundera.com)
 * [How Long To Read](https://www.howlongtoreadthis.com)
 * [I love my Kindle](https://ilmk.wordpress.com)
 * [Internet Archive Texts](http://archive.org/details.php?identifier=texts)
@@ -956,6 +960,7 @@ Thanks to our main contributors
 * [Loyal Books](http://www.loyalbooks.com)
 * [Many Books](http://manybooks.net)
 * [MobiPocket](http://www.mobipocket.com)
+* [MostRecommendedBooks](https://mostrecommendedbooks.com)
 * [Narro](https://www.narro.co)
 * [Open Culture: Free Audiobooks](http://www.openculture.com/freeaudiobooks)
 * [OpeningtheBook](http://www.openingthebook.com)
@@ -977,7 +982,6 @@ Thanks to our main contributors
 
 ## [↑](#contents) Geospatial Research and Mapping Tools
 
-* [Animaps](http://www.animaps.com)
 * [Atlasify](http://www.atlasify.com)
 * [Batchgeo](http://batchgeo.com)
 * [Bing Maps](http://www.bing.com/maps)
@@ -1038,9 +1042,9 @@ Thanks to our main contributors
 
 * [1st Headlines](http://www.1stheadlines.com)
 * [ABYZNewsLinks](http://www.abyznewslinks.com)
+* [Agence France-Presse (AFP)](http://www.afp.com)
 * [AllYouCanRead](http://www.allyoucanread.com)
 * [AP](http://hosted.ap.org)
-* [Associated France Press (AFP)](http://www.afp.com)
 * [BBC News](http://www.bbc.co.uk/news)
 * [Bing News](http://www.bing.com/news)
 * [CNN](http://edition.cnn.com)
@@ -1082,7 +1086,6 @@ Thanks to our main contributors
 * [Flipboard](https://flipboard.com)
 * [Hubii](http://hubii.com)
 * [Inshorts](https://www.inshorts.com)
-* [Inside](http://blog.inside.com)
 * [News360](https://news360.com)
 * [NewsBot](https://getnewsbot.com)
 * [Newsinshorts](http://newsinshorts.com)
@@ -1229,7 +1232,6 @@ Thanks to our main contributors
 * [RSS Search Engine](http://ctrlq.org/rss)
 * [RSS Search Hub](http://www.rsssearchhub.com)
 * [RSSOwl](http://www.rssowl.org)
-* [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/bmjffnfcokiodbeiamclanljnaheeoke?hl=en)
 * [Selfoss](http://selfoss.aditu.de)
 * [Silobreaker](http://www.silobreaker.com)
 * [Talkwalker](http://www.talkwalker.com)
@@ -1304,6 +1306,7 @@ Thanks to our main contributors
 
 ## [↑](#contents) Browsers
 
+* [Atom](https://browser.ru/)
 * [Brave](https://brave.com)
 * [CentBrowser](http://www.centbrowser.com)
 * [Chrome](https://www.google.com/chrome)
@@ -1455,6 +1458,7 @@ Thanks to our main contributors
 * [Mailjet](https://www.mailjet.com)
 * [Mailup](http://www.mailup.com)
 * [Newsletter Creator for Gmail](https://chrome.google.com/webstore/detail/newsletter-creator-for-gm/cihaednhfbocfdiflmpccekcmjepcnmb)
+* [Salesvid](https://www.salesvid.io)
 * [sendinblue](https://www.sendinblue.com)
 * [Sendicate](https://www.sendicate.net)
 * [Sendloop](https://sendloop.com)
@@ -1558,7 +1562,6 @@ Thanks to our main contributors
 * [Quadrigram](http://www.quadrigram.com)
 * [Raphael](http://dmitrybaranovskiy.github.io/raphael)
 * [RAW](http://raw.densitydesign.org)
-* [RichChartLive](http://www.richchartlive.com/RichChartLive)
 * [Shanti Interactive](http://www.viseyes.org)
 * [Silk](https://www.silk.co)
 * [Snappa](https://snappa.io)
@@ -1646,6 +1649,7 @@ Thanks to our main contributors
 * [Toggle](https://www.toggl.com)
 * [Tomighty](http://www.tomighty.org)
 * [Toodledo](https://www.toodledo.com)
+* [Tweek](https://tweek.so)
 * [Workflowy](https://workflowy.com)
 * [Wunderlist](https://www.wunderlist.com)
 
@@ -1824,6 +1828,7 @@ Thanks to our main contributors
 * [Collabtive](http://collabtive.o-dyn.de)
 * [CollaborateCloud](http://www.collaboratecloud.com)
 * [Comindwork](http://www.comindwork.com)
+* [Complish](https://www.complish.app)
 * [Conceptboard](https://conceptboard.com)
 * [Confluence](https://www.atlassian.com/software/confluence)
 * [CoSketch](http://cosketch.com)
@@ -1999,7 +2004,6 @@ Thanks to our main contributors
 * [Toc](http://toc.im)
 * [TrueConf](http://trueconf.com)
 * [Twchat](http://twchat.com)
-* [Unicorns](https://unicorns.io)
 * [Vanilla Forums](http://vanillaforums.org)
 * [Veeting rooms](https://www.veeting.com)
 * [VeriShow](http://www.verishow.com)
@@ -2142,7 +2146,7 @@ Thanks to our main contributors
 
 ## [↑](#contents) DNS
 * [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
-* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting. 
+* [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 
 ## [↑](#contents) Other Tools
 
@@ -2172,6 +2176,7 @@ urls and other data effortlessly
 
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
+* [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 * [Digital Stakeout](https://www.digitalstakeout.com/platform) - DigitalStakeout Scout™ is the leading security intelligence tool to collect data from the surface web, social media, dark web and technical sources to illuminate and investigate external threats.
 
 ## [↑](#contents) OSINT Videos
