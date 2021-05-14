@@ -28,6 +28,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
    - [VKontakte](#-vkontakte)
    - [Tumblr](#-tumblr)
    - [LinkedIn](#-linkedin)
+   - [Telegram](#-telegram)
  - [Blog Search](#-blog-search)
  - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [Username Check](#-username-check)
@@ -309,7 +310,6 @@ algorithms, knowledgebase and AI technology.
 * [Crate](https://getcrate.co)
 * [doesfollow](https://doesfollow.com)
 * [Fake Follower Check](https://fakers.statuspeople.com)
-* [FirstTweet](https://discover.twitter.com/first-tweet#i_intelligence)
 * [First Tweet](http://ctrlq.org/first)
 * [Foller.me](http://foller.me)
 * [FollowCheck](http://followcheck.com)
@@ -388,7 +388,6 @@ algorithms, knowledgebase and AI technology.
 * [Lookup-ID.com](https://lookup-id.com)
 * [SearchIsBack](https://searchisback.com)
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
-* [Zesty Facebook Search](http://zesty.ca/facebook)
 
 ### [↑](#contents) Instagram
 
@@ -443,6 +442,13 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#contents) LinkedIn
 
 * [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
+
+
+### [↑](#contents) Telegram
+
+* [Telegago](https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
+
+
 
 ## [↑](#contents) Blog Search
 
@@ -503,6 +509,7 @@ algorithms, knowledgebase and AI technology.
 
 * [BriteVerify Email Verification](http://www.briteverify.co.uk)
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
+* [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
 * [Email Address Validator](http://www.email-validator.net)
 * [Email Format](http://email-format.com)
 * [EmailHippo](https://tools.verifyemailaddress.io)
@@ -529,6 +536,7 @@ algorithms, knowledgebase and AI technology.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 
 ## [↑](#contents) Expert Search
 
@@ -877,6 +885,7 @@ algorithms, knowledgebase and AI technology.
 * [Listelive](http://www.listenlive.eu)
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
 * [Podcast Chart](http://www.podcastchart.com)
+* [Podgrab](https://github.com/akhilrex/podgrab)
 * [Podkicker](https://play.google.com/store/apps/details?id=ait.podka&hl=en)
 
 ## [↑](#contents) Academic Resources and Grey Literature
@@ -971,6 +980,7 @@ algorithms, knowledgebase and AI technology.
 * [Read](https://medium.com/@readapp/introducing-read-for-ios-de4d2799254a#.z3lrigjr7)
 * [Reader IQ](http://www.ereaderiq.com)
 * [Readgeek](http://www.readgeek.com)
+* [Read This Twice](https://readthistwice.com)
 * [Riffle](https://www.rifflebooks.com)
 * [Shelfie](http://www.shelfie.com)
 * [TasteKid: Books](http://www.tastekid.com/books)
@@ -1383,7 +1393,6 @@ algorithms, knowledgebase and AI technology.
 * [Bibme](http://www.bibme.org)
 * [Citationsy](https://citationsy.com)
 * [Cite This For Me](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle?hl=en)
-* [Classeur.io](http://classeur.io)
 * [FreeOffice](http://www.freeoffice.com)
 * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
 * [GoogleDocs](https://www.google.com/docs/about)
@@ -1433,7 +1442,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#contents) Digital Publishing
 
-* [Canva](https://www.canva.com)
 * [Doclayer](https://standaert.net/doclayer)
 * [Issuu](https://issuu.com)
 * [Lucidpress](https://www.lucidpress.com)
@@ -1448,7 +1456,6 @@ algorithms, knowledgebase and AI technology.
 * [AWeber](http://www.aweber.com)
 * [BombBomb](http://bombbomb.com)
 * [Campayn](http://campayn.com)
-* [Canva](https://www.canva.com)
 * [ConstantContact](http://www.constantcontact.com)
 * [Freshmail](http://freshmail.com)
 * [GetResponse](http://www.getresponse.com)
@@ -1507,7 +1514,6 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#contents) Infographics and Data Visualization
 
-* [Adobe Color CC](https://color.adobe.com/create/color-wheel)
 * [Aeon](http://www.aeontimeline.com)
 * [Arbor.js](http://arborjs.org)
 * [Beaker](http://beakernotebook.com)
@@ -1664,7 +1670,6 @@ algorithms, knowledgebase and AI technology.
 * [ClearContext](http://www.clearcontext.com)
 * [Cleanfox](https://www.cleanfox.io)
 * [CloudMagic](https://cloudmagic.com)
-* [Complete](https://complete.li)
 * [FindBigMail](https://www.findbigmail.com)
 * [Followupthen](https://www.followupthen.com)
 * [Hiver](http://hiverhq.com)
@@ -1703,6 +1708,7 @@ algorithms, knowledgebase and AI technology.
 * [ilovepdf](http://www.ilovepdf.com)
 * [PDFExpert](https://pdfexpert.com)
 * [PDFx](http://www.metachris.com/pdfx)
+* [PDF Shelter](https://pdfshelter.com/) - Unlimited, privacy-aware, PDF tools running locally on browser
 * [Smallpdf](http://smallpdf.com)
 * [Tabula](http://tabula.technology)
 * [XODO](http://xodo.com)
@@ -1760,7 +1766,6 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#contents) Web Automation
 
 * [Cloud Work](https://cloudwork.com)
-* [Dropbox](http://wappwolf.com/dropboxautomator)
 * [IFTTT](https://ifttt.com)
 * [Sikuli](http://www.sikuli.org)
 * [WeWiredWeb](https://wewiredweb.com)
