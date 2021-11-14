@@ -239,7 +239,7 @@ algorithms, knowledgebase and AI technology.
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 * [zerobin](https://batman.gyptis.org/zerobin)
 * [cl1p](https://Cl1p.net)
-* [codepad](https://Codepad.org)
+* [codepad](http://codepad.org)
 * [controlc](https://Controlc.com)
 * [doxbin](https://Doxbin.org)
 * [dpaste](https://Dpaste.com)
@@ -317,7 +317,6 @@ algorithms, knowledgebase and AI technology.
 * [Netvibes](http://www.netvibes.com)
 * [OpinionCrawl](http://www.opinioncrawl.com)
 * [Rival IQ](https://www.rivaliq.com)
-* [RSS Social Analyzer](https://chrome.google.com/webstore/detail/rss-social-analyzer/ncmajlpbfckecekfamgfkmckbpihjfdn?hl=en)
 * [SocialBakers](http://www.socialbakers.com)
 * [SociaBlade](http://socialblade.com)
 * [Social DownORNot](http://social.downornot.com)
@@ -339,7 +338,6 @@ algorithms, knowledgebase and AI technology.
 * [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
 * [Blue Nod](http://bluenod.com)
 * [burrrd.](https://burrrd.com)
-* [Crate](https://getcrate.co)
 * [doesfollow](https://doesfollow.com)
 * [Fake Follower Check](https://fakers.statuspeople.com)
 * [First Tweet](http://ctrlq.org/first)
@@ -376,7 +374,6 @@ algorithms, knowledgebase and AI technology.
 * [Trends24](http://trends24.in)
 * [TrendsMap](http://trendsmap.com)
 * [Ttrends](https://ttrends.co)
-* [Twazzup](http://www.twazzup.com)
 * [twbirthday](http://twbirthday.com)
 * [TwChat](http://twchat.com)
 * [tweepsect](http://tweepsect.com)
@@ -388,7 +385,6 @@ algorithms, knowledgebase and AI technology.
 * [TweetPsych](http://tweetpsych.com)
 * [Tweetreach](http://tweetreach.com)
 * [TweetStats](http://www.tweetstats.com)
-* [Tweet Tag](http://www.tweet-tag.com)
 * [TweetTunnel](http://tweettunnel.com)
 * [Twellow](http://www.twellow.com)
 * [Tweriod](http://www.tweriod.com)
@@ -516,6 +512,7 @@ algorithms, knowledgebase and AI technology.
 * [Name Checkr](http://www.namecheckr.com)    
 * [Name Checkup](https://namecheckup.com)
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+* [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 * [User Search](http://www.usersearch.org)
 * [WhatsMyName](https://whatsmyname.app/)
 
@@ -564,7 +561,7 @@ algorithms, knowledgebase and AI technology.
 * [Holehe](https://github.com/megadose/holehe)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
-* [MailTester](http://mailtester.com/testmail.php)
+* [MailTester](http://mailtester.com)
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
@@ -574,6 +571,7 @@ algorithms, knowledgebase and AI technology.
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
+* [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [↑](#contents) Phone Number Research
 * [National Cellular Directory](https://www.nationalcellulardirectory.com/) - was created to help people research and reconnect with one another by performing cell phone lookups. The lookup products includes have billions of records that can be accessed at any time, as well as free searches one hour a day, every day.
@@ -829,7 +827,7 @@ algorithms, knowledgebase and AI technology.
 * [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
 * [IloveTyping](https://ilovetyping.com/english-to-hindi-typing) - Translate English to Hindi
 * [Inasentence](https://inasentence.me/) - Find Sentences from Words
-* [India Typing](http://indiatyping.com/index.php/translations/english-to-hindi-translation)
+* [India Typing](https://indiatyping.com/index.php/translate/english-to-hindi)
 * [imTranslator](http://imtranslator.net/translation)
 * [iTranslate](http://www.itranslateapp.com)
 * [iTranslate Voice](http://itranslatevoice.com)
@@ -1279,7 +1277,7 @@ algorithms, knowledgebase and AI technology.
 * [UN Data](http://data.un.org)
 * [UNDPs Human Development Index](http://hdr.undp.org/en/data)
 * [UNECE](http://w3.unece.org/PXWeb/en)
-* [UNESCO Institute for Statistics](http://www.uis.unesco.org)
+* [UNESCO Institute for Statistics](http://uis.unesco.org)
 * [UNIDO Statistical Databases](http://www.unido.org/resources/statistics/statistical-databases.html)
 * [UNStats Social Indicators](http://unstats.un.org/unsd/demographic/products/socind)
 * [Upsala Conflict Data Program](http://www.pcr.uu.se/research/UCDP)
@@ -1628,7 +1626,6 @@ algorithms, knowledgebase and AI technology.
 * [FusionCharts](http://www.fusioncharts.com)
 * [Google Developers: Charts](https://developers.google.com/chart)
 * [GraphX](http://spark.apache.org/graphx)
-* [Helpmeviz](http://helpmeviz.com)
 * [Highcharts](http://www.highcharts.com)
 * [Hohli](http://charts.hohli.com)
 * [Inkscape](https://inkscape.org)
@@ -2152,7 +2149,6 @@ algorithms, knowledgebase and AI technology.
 * [Mind Genius](http://www.mindgenius.com)
 * [Mindjet](https://www.mindjet.com)
 * [Mind Manager](https://www.mindjet.com/mindmanager)
-* [Mind Map](https://chrome.google.com/webstore/detail/mindmap/gdaeohpmcenmffofpikllphdhlkkocfa#detail/mindmap/gdaeohpmcenmffofpikllphdhlkkocfa)
 * [Mindmeister](https://www.mindmeister.com)
 * [Mindomo](https://www.mindomo.com)
 * [MindMup](https://www.mindmup.com/)
