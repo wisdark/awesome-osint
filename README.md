@@ -24,7 +24,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
    - [Twitter](#-twitter)
    - [Facebook](#-facebook)
    - [Instagram](#-instagram)
-   - [Pinterest](#-pinterest) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
+   - [Pinterest](#-pinterest)
    - [Reddit](#-reddit)
    - [VKontakte](#-vkontakte)
    - [Tumblr](#-tumblr)
@@ -114,6 +114,7 @@ Thanks to our main contributors
 * [Aol](http://search.aol.com)
 * [Ask](http://www.ask.com)
 * [Bing](http://www.bing.com)
+* [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
 * [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 * [Gigablast](http://gigablast.com) - provides large-scale, high-performance, real-time information retrieval technology and services for partner sites. 
 * [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
@@ -171,6 +172,7 @@ algorithms, knowledgebase and AI technology.
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
+* [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
 * [Google Custom Search](http://www.google.com/cse)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 * [Internet Archive](https://archive.org/)
@@ -260,6 +262,7 @@ algorithms, knowledgebase and AI technology.
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [NerdyData](https://nerdydata.com) - Search engine for source code.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
+* [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 * [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 * [Reposearch](http://codefinder.org/)
 * [PublicWWW](https://publicwww.com/)
@@ -273,7 +276,7 @@ algorithms, knowledgebase and AI technology.
 * [Linkedin](https://www.linkedin.com)
 * [Mixi (Japan)](https://mixi.jp)
 * [Odnoklassniki (Russia)](http://ok.ru)
-* [Pinterest](http://www.pinterest.com)
+* [Pinterest](http://www.pinterest.com) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
 * [Qzone (China)](http://qzone.qq.com)
 * [Reddit](https://www.reddit.com)
 * [Taringa (Latin America)](http://www.taringa.net)
@@ -484,12 +487,16 @@ algorithms, knowledgebase and AI technology.
 * [Name Chk](http://www.namechk.com)
 * [Name Checkr](http://www.namecheckr.com)    
 * [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
+* [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
+* [NexFil](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
+* [Seekr](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 * [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 * [User Search](http://www.usersearch.org)
 * [WhatsMyName](https://whatsmyname.app/)
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+* [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 
 ## [↑](#-Table-of-Contents) People Investigations
 
@@ -500,6 +507,8 @@ algorithms, knowledgebase and AI technology.
 * [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 * [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+* [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
+* [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 * [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
 * [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
 * [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
@@ -533,11 +542,12 @@ algorithms, knowledgebase and AI technology.
 * [Holehe](https://github.com/megadose/holehe)
 * [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 * [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+* [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * [MailTester](http://mailtester.com)
+* [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 * [Peepmail](http://www.samy.pl/peepmail)
 * [Pipl](https://pipl.com)
 * [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
-* [ReverseGenie](http://www.reversegenie.com/email.php) - a website used to look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates.
 * [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
@@ -545,18 +555,19 @@ algorithms, knowledgebase and AI technology.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [↑](#-Table-of-Contents) Phone Number Research
-* [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
-* [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
-* [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
+* [EmobileTracker.com](https://www.emobiletracker.com/)
+* [FreeCarrierLookup](https://freecarrierlookup.com/)
 * [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
-* [FreeCarrierLookup](https://freecarrierlookup.com/)
+* [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
+* [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
+* [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Sync.ME](https://sync.me/)
-* [EmobileTracker.com](https://www.emobiletracker.com/)
+* [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 
 ## [↑](#-Table-of-Contents) Expert Search
 
-* [Academia](http://academia.edu)
+* [Academia](http://academia.edu) - is a platform for sharing academic research.
 * [CanLaw](http://www.canlaw.com)
 * [ExpertiseFinder](http://www.expertisefinder.com)
 * [ExpertPages](http://expertpages.com)
@@ -778,7 +789,7 @@ algorithms, knowledgebase and AI technology.
 * [Apertium](https://www.apertium.org)
 * [Babelfish](https://www.babelfish.com)
 * [Bablic](https://www.bablic.com)
-* [Bing Translator](http://www.bing.com/translator)
+* [Bing Translator](http://www.bing.com/translator) - is a user facing translation portal provided by Microsoft as part of its Bing services to translate texts or entire web pages into different languages.
 * [Dict.cn](http://dict.cn)
 * [Dictionary.com: Translation](http://translate.reference.com)
 * [Free Translator](http://www.free-translator.com)
@@ -812,6 +823,7 @@ algorithms, knowledgebase and AI technology.
 * [WorldReference.com](http://www.wordreference.com)
 * [Yamli (Arabic Search Engine)](http://www.yamli.com)
 * [Yandex Translate](https://translate.yandex.ru)
+* [Lesan](https://lesan.ai)
 
 ## [↑](#-Table-of-Contents) Image Search
 
@@ -819,6 +831,7 @@ algorithms, knowledgebase and AI technology.
 * [Baidu Images](http://image.baidu.com)
 * [Bing Images](http://www.bing.com/images)
 * [Clarify](http://clarify.io)
+* [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 * [Flickr](https://secure.flickr.com)
 * [GoodSearch Image Search](http://www.goodsearch.com/search-image)
 * [Google Image](https://images.google.com)
@@ -829,7 +842,6 @@ algorithms, knowledgebase and AI technology.
 * [Lycos Image Search](http://search.lycos.com)
 * [MyPicsMap](http://www.mypicsmap.com)
 * [PhotoBucket](http://photobucket.com)
-* [Picsearch](http://www.picsearch.com)
 * [PicTriev](http://www.pictriev.com)
 * [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 * [TinEye](https://tineye.com) - Reverse image search engine.
@@ -889,11 +901,13 @@ algorithms, knowledgebase and AI technology.
 * [Earthcam](http://www.earthcam.com)
 * [Insecam](http://insecam.org/)
 * [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
+* [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
 * [LiveLeak](http://www.liveleak.com)
 * [Metacafe](http://www.metacafe.com)
 * [Metatube](http://www.metatube.com)
+* [Tubuep](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
 * [Veoh](http://www.veoh.com)
 * [Vimeo](https://vimeo.com)
 * [Yahoo Video Search](http://video.search.yahoo.com)
@@ -902,6 +916,7 @@ algorithms, knowledgebase and AI technology.
 * [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 * [YouTube Metadata](https://mattw.io/youtube-metadata/)
 * [YouTube Geofind](https://mattw.io/youtube-geofind/)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
@@ -918,7 +933,7 @@ algorithms, knowledgebase and AI technology.
 
 * [Academia](https://www.academia.edu)
 * [Academic Journals](http://www.academicjournals.org)
-* [African Journal Online](http://www.ajol.info)
+* [African Journal Online](http://www.ajol.info) -  is the world's largest and preeminent platform of African-published scholarly journals
 * [American Society of Civil Engineers](http://ascelibrary.org)
 * [Base](http://www.base-search.net)
 * [Bibsonomy](http://www.bibsonomy.org)
@@ -941,6 +956,7 @@ algorithms, knowledgebase and AI technology.
 * [Microsoft Academic](http://academic.research.microsoft.com)
 * [NRC Research Press](http://www.nrcresearchpress.com)
 * [Open Access Scientific Journals](http://www.pagepress.org)
+* [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (~ 40 million)
 * [Open Grey](http://www.opengrey.eu)
 * [The Open Syllabus Project](http://opensyllabusproject.org/)
 * [Oxford Journals](http://www.oxfordjournals.org)
@@ -1358,11 +1374,11 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-Table-of-Contents) Offline Browsing
 
 * [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
-* [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy)
+* [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
 * [gmapcatcher](https://github.com/heldersepu/gmapcatcher)
 * [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 * [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
-* [Offliberty](http://offliberty.com)
+* [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 * [Resolver](https://metaproductsrevolver.com)
 * [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html)
 * [WebAssistant](http://www.proxy-offline-browser.com/download.html)
@@ -1561,6 +1577,7 @@ algorithms, knowledgebase and AI technology.
 * [Nodebox](https://www.nodebox.net)
 * [OpenLayers](http://openlayers.org)
 * [Palladio](http://hdlab.stanford.edu/palladio)
+* [Perspective](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 * [Piktochart](https://piktochart.com)
 * [Pixcone](http://www.pixcone.com)
 * [Pixxa](http://www.pixxa.com)
@@ -2124,6 +2141,7 @@ algorithms, knowledgebase and AI technology.
 * [CrowdSec](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 * [Datasploit](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 * [DuckDuckGo URL scraper](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper. 
+* [Glit](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 * [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.  
   * [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * [The Harvester](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
@@ -2146,6 +2164,8 @@ urls and other data effortlessly
 * [sn0int](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 * [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
   * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
+* [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
+* [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 * [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
